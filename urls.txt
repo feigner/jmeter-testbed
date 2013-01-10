@@ -1,0 +1,7 @@
+/en-us/
+/en-us/youtube/
+/en-us/share/wings-widget/
+/en-us/share/video-comment-form/
+/api/feed/2/
+/api/video/1/
+/api/stock-share-images/1/
